@@ -1,7 +1,7 @@
 // const express = require('express'),
 //   path = require('path')
-const express = requires('express');
-const app = express()
+const express = require('express');
+const app = express();
 
 // Import
 const blogRoutes = require('./routes/blogRoutes');
